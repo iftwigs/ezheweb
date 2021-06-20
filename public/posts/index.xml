@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on elizaveta ezhergina</title>
+    <link>http://ezhergina.me/posts/</link>
+    <description>Recent content in Posts on elizaveta ezhergina</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Jun 2021 13:06:48 +0300</lastBuildDate><atom:link href="http://ezhergina.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://ezhergina.me/posts/my-first-post/</link>
+      <pubDate>Sun, 20 Jun 2021 13:06:48 +0300</pubDate>
+      
+      <guid>http://ezhergina.me/posts/my-first-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
